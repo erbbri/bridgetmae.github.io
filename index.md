@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Web Page](https://sleepy-bayou-15339.herokuapp.com/site/Home.html)
 <img src="images/webpage-thumbnail.JPG?raw=true"/>
 
 ---
