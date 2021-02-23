@@ -2,28 +2,21 @@
 
 ---
 
-### Category Name 1 
-
-[Web Page](https://sleepy-bayou-15339.herokuapp.com/site/Home.html)
+### Web Development
+[BookNook](https://sleepy-bayou-15339.herokuapp.com/site/Home.html)
 <img src="images/webpage-thumbnail.JPG?raw=true"/>
+- [README](http://example.com/)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Data Science
+[COVID-19 Statistics](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+- [README](http://example.com/)
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+- [README](http://example.com/)
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
