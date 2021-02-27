@@ -3,10 +3,9 @@
 ---
 
 ### Web Development
-[BookNook](https://sleepy-bayou-15339.herokuapp.com/site/Home.html)
+[Book Database](https://sleepy-bayou-15339.herokuapp.com/site/Home.html)
 <img src="images/webpage-thumbnail.JPG?raw=true"/>
 - [README](http://example.com/)
-
 ---
 ### Data Science
 [COVID-19 Statistics](/pdf/sample_presentation.pdf)
@@ -18,7 +17,7 @@
 - [README](http://example.com/)
 ---
 
----
+
 
 
 
